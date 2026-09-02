@@ -6,6 +6,8 @@ Official website for the 1st African Winter School on Software Engineering and A
 
 The Winter School brings world-class scholars from across the globe to Africa to share knowledge, inspire creativity, and build lasting collaborations. This event serves as a bridge between Africa and other continents, fostering cross-continental scientific exchange and global cooperation in Software Engineering and AI.
 
+The Winter School brings world-class scholars from across the globe to Africa to share knowledge, inspire creativity, and build lasting collaborations. This event serves as a bridge between Africa and other continents, fostering cross-continental scientific exchange and global cooperation in Software Engineering and AI.
+
 ## Event Details
 
 - **Dates:** November 24-26, 2025
